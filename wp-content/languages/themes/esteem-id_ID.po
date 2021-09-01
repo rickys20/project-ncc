@@ -1,0 +1,598 @@
+# Translation of Themes - Esteem in Indonesian
+# This file is distributed under the same license as the Themes - Esteem package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-24 02:13:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Esteem\n"
+
+#. Description of the theme
+msgid "Esteem is a clean multipurpose responsive WordPress theme designed to fit business, portfolio, blogging or any type of site. The theme supports custom header, custom background, custom widgets, page templates and has built in options panel to configure primary color, site logo, slider, sidebar layout and 3 blog layout. It's also fully compatible with popular plugins like contact Form 7, WP PageNavi and Breadcrumb Navxt and is translation ready. Get free support at https://themegrill.com/support-forum/ and check the demo at https://demo.themegrill.com/esteem/."
+msgstr "Esteem adalah tema WordPress responsif yang serbaguna di desain untuk bisnis, portofolio, blogging atau jenis situs lainnya. Tema ini mendukung header, kustom latar belakang, kustom widget, template laman dan memiliki opsi built-in panel untuk menyesuaikan warna utama, logo situs, slider, tata letak sidebar dan 3 tata letak blog. Juga cocok dengan plugin terkenal seperti contact form 7, WP PageNavi dan Breadcrumb Navxt dan terjemahannya juga mantap. Dapatkan bantuan gratis di http://themegrill.com/support-forum/ dan lihat demo tema di http://demo.themegrill.com/esteem/."
+
+#. Theme Name of the theme
+#: inc/admin/class-esteem-welcome-notice.php:46 inc/functions.php:331
+msgid "Esteem"
+msgstr "Esteem"
+
+#: inc/customizer.php:101
+msgid "Switch to new responsive menu."
+msgstr "Alih ke menu responsif baru."
+
+#: inc/customizer.php:90
+msgid "Responsive Menu Style"
+msgstr "Gaya Menu Responsif"
+
+#: inc/admin/class-esteem-theme-review-notice.php:95
+#: inc/admin/class-esteem-dashboard.php:112
+msgid "Got theme support question?"
+msgstr "Ada pertanyaan seputar bantuan tema?"
+
+#: inc/admin/class-esteem-welcome-notice.php:26
+msgid "Get started with Esteem"
+msgstr "Mulai Esteem"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-esteem-welcome-notice.php:54
+msgid "Welcome! Thank you for choosing Esteem! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "Selamat Datang! Terimakasih sudah memilih Esteem! Untuk mendapatkan manfaat lebih dari yang ditawarkan oleh tema pastikan Anda mengunjungi %1$shalaman selamat datang%2$s kami."
+
+#: inc/admin/class-esteem-welcome-notice.php:81
+#: inc/admin/class-esteem-notice.php:63 inc/admin/class-esteem-notice.php:82
+msgid "Cheatin&#8217; huh?"
+msgstr "Aneh huh?"
+
+#: inc/admin/class-esteem-welcome-notice.php:77
+#: inc/admin/class-esteem-notice.php:59 inc/admin/class-esteem-notice.php:78
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Tindakan gagal. Silahkan muat ulang laman dan coba lagi."
+
+#: inc/customizer.php:41
+msgid "View PRO version"
+msgstr "Lihat versi PRO"
+
+#: inc/customizer.php:248
+msgid "Select default layout. This layout will be reflected in whole site archives, search etc. The layout for a single post and page can be controlled from below options.. The change is reflected in whole site."
+msgstr "Pilih tata letak default. Tata letak ini akan berdampak pada semua situs arsip, pencarian, dll. Tata letak untuk pos dan laman tunggal bisa diatur dari opsi dibawah.. Perubahan akan berdampak diseluruh situs."
+
+#: inc/functions.php:424
+msgid "<span class=\"icon-time\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+msgstr "<span class=\"icon-time\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+
+#. Template Name of the theme
+msgid "Contact Page Template"
+msgstr "Template Laman Kontak"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Template Bisnis"
+
+#: sidebar-left.php:36 sidebar.php:36
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:12 searchform.php:13 searchform.php:15
+msgid "Search"
+msgstr "Cari"
+
+#: inc/admin/class-esteem-dashboard.php:103
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: inc/customizer.php:523
+msgid "Enter link to redirect slider when clicked"
+msgstr "Masukkan link untuk mengarahkan saat di klik"
+
+#: inc/customizer.php:508
+msgid "Enter your slider description."
+msgstr "Masukkan deskripsi untuk slider Anda."
+
+#: inc/customizer.php:493
+msgid "Enter title for your slider."
+msgstr "Masukkan judul untuk slider Anda."
+
+#: inc/customizer.php:479
+msgid "Upload slider image."
+msgstr "Unghah gambar slider."
+
+#: inc/customizer.php:466
+msgid "Image Upload #%1$s"
+msgstr "Unggahan Gambar #%1$s"
+
+#: inc/customizer.php:450
+msgid "Check to activate slider."
+msgstr "Centang untuk mengaktifkan slider."
+
+#: inc/customizer.php:437
+msgid "Activate slider"
+msgstr "Aktifkan Slider"
+
+#: inc/customizer.php:432
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer.php:364
+msgid "Additional"
+msgstr "Tambahan"
+
+#: inc/customizer.php:350
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site."
+msgstr "Akan berdampak pada link, tombol dan banyak lagi. Tentukan warna yang sesuai dengan situs Anda."
+
+#: inc/customizer.php:338
+msgid "Primary color option"
+msgstr "Opsi warna utama"
+
+#: inc/customizer.php:330
+msgid "Full Content"
+msgstr "Konten Penuh"
+
+#: inc/customizer.php:329
+msgid "Small featured image"
+msgstr "Gambar andalan kecil"
+
+#: inc/customizer.php:328
+msgid "Large featured image"
+msgstr "Gambar andalan lebar"
+
+#: inc/customizer.php:325
+msgid "Choose the display type for the latests posts view or posts page view (static front page)."
+msgstr "Tentukan jenis tampilan untuk pos terbaru atau tampilan laman pos (laman depan statis)."
+
+#: inc/customizer.php:313
+msgid "Blog page display type"
+msgstr "Jenis tampilan laman blog"
+
+#: inc/customizer.php:300
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post."
+msgstr "Pilih tata letak bawaan untuk pos tunggal. Tata letak ini akan berdampak di semua pos tunggal kecuali tata letak unik diatur pada pos."
+
+#: inc/customizer.php:287
+msgid "Default layout for single posts only"
+msgstr "Tata letak bawaan untuk pos tunggal saja."
+
+#: inc/customizer.php:274
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page."
+msgstr "Pilih tata letak bawaan untuk laman. Tata letak ini akan berdampak di semua laman kecuali tata letak unik diatur untuk laman tertentu."
+
+#: inc/customizer.php:261
+msgid "Default layout for pages only"
+msgstr "Tata letak bawaan hanya untuk laman"
+
+#: inc/customizer.php:235
+msgid "Default layout"
+msgstr "Tata Letak Bawaan"
+
+#: inc/customizer.php:229
+msgid "Wide layout"
+msgstr "Tata Letak Lebar"
+
+#: inc/customizer.php:228
+msgid "Boxed layout"
+msgstr "Tata Letak Kotak"
+
+#: inc/customizer.php:225
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr "Tentukan tata letak situs Anda. Perubahan berdampak di keseluruhan situs."
+
+#: inc/customizer.php:212
+msgid "Site Layout"
+msgstr "Tata Letak Situs"
+
+#: inc/customizer.php:207
+msgid "Design"
+msgstr "Desain"
+
+#: inc/customizer.php:197
+msgid "Enter redirect link"
+msgstr "Masukkan link pengarah"
+
+#: inc/customizer.php:187
+msgid "Button redirect link"
+msgstr "Link pengarahan tombol"
+
+#: inc/customizer.php:161 inc/customizer.php:172
+msgid "Button Text"
+msgstr "Teks Tombol"
+
+#: inc/customizer.php:146
+msgid "Enter the sub slogan"
+msgstr "Masukkan sub slogan"
+
+#: inc/customizer.php:134
+msgid "Promo box secondary Slogan"
+msgstr "Slogan Kedua kotak promo"
+
+#: inc/customizer.php:119
+msgid "Enter the main Slogan"
+msgstr "Masukkan Slogan utama"
+
+#: inc/customizer.php:108
+msgid "Promo box Primary Slogan"
+msgstr "Slogan Utama kotak promo"
+
+#: inc/customizer.php:77
+msgid "Choose the option that you want."
+msgstr "Tentukan opsi yang Anda mau."
+
+#: inc/customizer.php:65
+msgid "Show"
+msgstr "Tampilkan"
+
+#: inc/customizer.php:83
+msgid "Disable"
+msgstr "Tiadakan"
+
+#: inc/customizer.php:82
+msgid "Show Both"
+msgstr "Tampilkan Keduanya"
+
+#: inc/customizer.php:81
+msgid "Header Text Only"
+msgstr "Hanya Teks Header"
+
+#: inc/customizer.php:80
+msgid "Header Logo Only"
+msgstr "Hanya Logo Header"
+
+#: inc/customizer.php:58
+msgid "Header Logo"
+msgstr "Logo Header"
+
+#: inc/customizer.php:53
+msgid "Header"
+msgstr "Header"
+
+#: no-results.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan hal yang sedang Anda cari. Cobalah pada pencarian."
+
+#: no-results.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#: no-results.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulai disini</a>."
+
+#: navigation.php:41
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: navigation.php:40
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: navigation.php:33
+msgid "Next &rarr;"
+msgstr "Selanjutnya &rarr;"
+
+#: navigation.php:32
+msgid "&larr; Previous"
+msgstr "&larr; Sebelumnya"
+
+#: navigation.php:21
+msgid "Next &raquo;"
+msgstr "Berikutnya &raquo;"
+
+#: navigation.php:20
+msgid "&laquo; Previous"
+msgstr "&laquo; Sebelumnya"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:142
+#: inc/widgets/class-esteem-testimonial-widget.php:160
+msgid "Company link:"
+msgstr "Link perusahaan:"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:139
+#: inc/widgets/class-esteem-testimonial-widget.php:157
+msgid "Company:"
+msgstr "Perusahaan:"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:136
+#: inc/widgets/class-esteem-testimonial-widget.php:154
+msgid "Byline:"
+msgstr "Byline:"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:133
+#: inc/widgets/class-esteem-testimonial-widget.php:151
+msgid "Testimonial Description"
+msgstr "Deskripsi Testimonial"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:130
+#: inc/widgets/class-esteem-testimonial-widget.php:148
+msgid "Image link:"
+msgstr "Link gambar:"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:127
+#: inc/widgets/class-esteem-testimonial-widget.php:145
+msgid "Name:"
+msgstr "Nama:"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:10
+msgid "TG: Testimonial"
+msgstr "TG: Testimonial"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:8
+msgid "Display Testimonial"
+msgstr "Tampilkan Testimonial"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:42
+msgid "Open in new tab"
+msgstr "Buka di tab baru"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:38
+msgid "Button Redirect Link:"
+msgstr "Link Pengarah Tombol:"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:34
+msgid "Button Text:"
+msgstr "Teks Tombol:"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:31
+msgid "Call to Action Additional Text"
+msgstr "Teks Tambahan Tombol Tindakan"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:29
+msgid "Call to Action Main Text"
+msgstr "Teks Utama Tombol Tindakan"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:11
+msgid "TG: Call To Action Widget"
+msgstr "TG: Widget Tombol Tindakan"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:9
+msgid "Use this widget to show the call to action section"
+msgstr "Gunakan widget ini untuk menampilkan bagian tombol tindakan"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:124
+#: inc/widgets/class-esteem-recent-work-widget.php:30
+msgid "Title:"
+msgstr "Judul:"
+
+#: inc/widgets/class-esteem-recent-work-widget.php:11
+msgid "TG: Featured Widget"
+msgstr "TG: Widget Andalan"
+
+#: inc/widgets/class-esteem-recent-work-widget.php:9
+msgid "Use this widget to show recent work, portfolio or any pages as your wish ( Business Layout )"
+msgstr "Gunakan widget ini untuk menampilkan kerjaan terbaru, portofolio atau laman lain seperti yang diharapkan (Tata Letak Bisnis)"
+
+#: inc/widgets/class-esteem-recent-work-widget.php:37
+#: inc/widgets/class-esteem-service-widget.php:34
+msgid "Page"
+msgstr "Laman"
+
+#: inc/widgets/class-esteem-service-widget.php:30
+msgid "<strong>Note:</strong> Featured Image will overwrite the fontawesome icon."
+msgstr ""
+"<strong>Catatan:</strong> \n"
+"Gambar Andalan akan menimpa ikon fontawesome."
+
+#: inc/widgets/class-esteem-service-widget.php:29
+msgid "Check to display the Featured Image"
+msgstr "Centang untuk menampilkan Gambar Andalan"
+
+#: inc/widgets/class-esteem-service-widget.php:11
+msgid "TG: Services"
+msgstr "TG: Layanan"
+
+#: inc/widgets/class-esteem-service-widget.php:9
+msgid "Display Services( Business Layout )"
+msgstr "Tampilkan Layanan ( Tata Letak Bisnis )"
+
+#: inc/widgets/widgets.php:87
+msgid "Shows widgets on Contact Page Template."
+msgstr "Menampilkan widget pada Template Laman Kontak."
+
+#: inc/widgets/widgets.php:85
+msgid "Contact Page Sidebar"
+msgstr "Sidebar Laman Kontak"
+
+#: inc/widgets/widgets.php:76
+msgid "Shows widgets at footer sidebar three."
+msgstr "Menampilkan widget di sidebar footer tiga."
+
+#: inc/widgets/widgets.php:74
+msgid "Footer Sidebar Three"
+msgstr "Sidebar Footer Tiga"
+
+#: inc/widgets/widgets.php:65
+msgid "Shows widgets at footer sidebar two."
+msgstr "Menampilkan widget di sidebar footer dua."
+
+#: inc/widgets/widgets.php:63
+msgid "Footer Sidebar Two"
+msgstr "Sidebar Footer Dua"
+
+#: inc/widgets/widgets.php:54
+msgid "Shows widgets at footer sidebar one."
+msgstr "Menampilkan widget di sidebar footer satu"
+
+#: inc/widgets/widgets.php:52
+msgid "Footer Sidebar One"
+msgstr "Sidebar Footer Satu"
+
+#: inc/widgets/widgets.php:43
+msgid "Shows widgets on Business Page Template."
+msgstr "Menampilkan widget pada Template Laman Bisnis."
+
+#: inc/widgets/widgets.php:41
+msgid "Business Page Sidebar"
+msgstr "Sidebar Laman Bisnis"
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr "Menampilkan widget disisi Kiri."
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr "Menampilkan widget disisi Kanan."
+
+#: inc/header-functions.php:178
+msgid "You are here:"
+msgstr "Anda disini:"
+
+#: inc/header-functions.php:149
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+#: inc/header-functions.php:147
+msgid "Page NOT Found"
+msgstr "Laman TIDAK Ditemukan"
+
+#: sidebar-left.php:29 inc/header-functions.php:143 sidebar.php:29
+msgid "Archives"
+msgstr "Arsip"
+
+#: inc/header-functions.php:140
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#: inc/header-functions.php:137
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: inc/header-functions.php:134
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: inc/header-functions.php:126
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: inc/functions.php:333
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: inc/functions.php:333
+msgid "Powered by %s."
+msgstr "Dipersembahkan oleh %s."
+
+#: inc/functions.php:329
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/admin/meta-boxes.php:86
+msgid "fontawesome Icons"
+msgstr "Ikon fontawesome"
+
+#: inc/admin/meta-boxes.php:76
+msgid "No sidebar content Centered"
+msgstr "Konten Ditengah tanpa sidebar"
+
+#: inc/admin/meta-boxes.php:72
+msgid "No sidebar full width"
+msgstr "Lebar penuh tanpa sidebar"
+
+#: inc/admin/meta-boxes.php:68 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#: inc/admin/meta-boxes.php:64 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: inc/admin/meta-boxes.php:60
+msgid "Default Layout"
+msgstr "Tata Letak Bawaan"
+
+#: inc/admin/meta-boxes.php:55
+msgid "Sidebar Layout"
+msgstr "Tata Letak Sidebar"
+
+#: inc/admin/meta-boxes.php:41
+msgid "Icon class"
+msgstr "Ikon class"
+
+#: inc/admin/meta-boxes.php:21 inc/admin/meta-boxes.php:31
+msgid "Select Layout"
+msgstr "Pilih Tata Letak"
+
+#: fontawesome/icons.php:4
+msgid "(None)"
+msgstr "(None)"
+
+#: content-single.php:22
+msgid "Tagged on: "
+msgstr "Ditag pada:"
+
+#: content-page.php:17 content-single.php:29
+msgid "Pages:"
+msgstr "Laman:"
+
+#: content-blog-image-medium.php:46 content-blog-image-large.php:42
+#: content.php:49 inc/widgets/class-esteem-service-widget.php:96
+#: inc/widgets/class-esteem-service-widget.php:113
+msgid "Read more"
+msgstr "Baca selengkapnya"
+
+#: inc/functions.php:438
+msgid "Edit"
+msgstr "Sunting"
+
+#: inc/functions.php:435
+msgid "Comments Off"
+msgstr "Komentar Dimatikan"
+
+#: inc/functions.php:435
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/functions.php:435
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/functions.php:435
+msgid "No Comments"
+msgstr "Tidak ada Komentar"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Terbaru &rarr;"
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Terdahulu"
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu gagasan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gagasan untuk &ldquo;%2$s&rdquo;"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Sepertinya tidak ada apa-apa disini. Cobalah pencarian dibawah"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak bisa ditemukan."
+
+#. Author URI of the theme
+msgid "https://themegrill.com"
+msgstr "http://themegrill.com"
+
+#. Theme URI of the theme
+msgid "https://themegrill.com/themes/esteem/"
+msgstr "http://themegrill.com/themes/esteem/"
+
+#. Author of the theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
