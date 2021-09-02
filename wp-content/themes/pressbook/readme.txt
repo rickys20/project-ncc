@@ -5,7 +5,7 @@ Donate link: https://scriptstown.com/
 Requires at least: 5.3
 Tested up to: 5.8
 Requires PHP: 5.6
-Stable tag: 1.3.4
+Stable tag: 1.3.6
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -54,6 +54,12 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 == Changelog ==
+
+= 1.3.6 =
+* Improvement: Removed 100% height for input fields.
+
+= 1.3.5 =
+* Added: Option to hide the go to top button.
 
 = 1.3.4 =
 * Improvement: Welcome page updated.

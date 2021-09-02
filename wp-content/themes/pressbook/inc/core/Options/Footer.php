@@ -23,6 +23,7 @@ class Footer extends Options {
 		$this->sec_footer( $wp_customize );
 
 		$this->set_copyright_text( $wp_customize );
+		$this->set_hide_go_to_top( $wp_customize );
 
 		$this->set_footer_bg_color( $wp_customize );
 		$this->set_footer_credit_link_color( $wp_customize );
@@ -110,6 +111,47 @@ class Footer extends Options {
 	 */
 	public function render_copyright_text() {
 		get_template_part( 'template-parts/footer/copyright-text' );
+	}
+
+	/**
+	 * Add setting: Hide Go To Top Button.
+	 *
+	 * @param WP_Customize_Manager $wp_customize Theme Customizer object.
+	 */
+	public function set_hide_go_to_top( $wp_customize ) {
+		$wp_customize->add_setting(
+			'set_hide_go_to_top',
+			array(
+				'type'              => 'theme_mod',
+				'default'           => self::get_hide_go_to_top( true ),
+				'transport'         => 'refresh',
+				'sanitize_callback' => array( Sanitizer::class, 'sanitize_checkbox' ),
+			)
+		);
+
+		$wp_customize->add_control(
+			'set_hide_go_to_top',
+			array(
+				'section' => 'sec_footer',
+				'type'    => 'checkbox',
+				'label'   => esc_html__( 'Hide Go To Top Button', 'pressbook' ),
+			)
+		);
+	}
+
+	/**
+	 * Get setting: Hide Go To Top Button.
+	 *
+	 * @param bool $get_default Get default.
+	 * @return bool
+	 */
+	public static function get_hide_go_to_top( $get_default = false ) {
+		$default = apply_filters( 'pressbook_default_hide_go_to_top', false );
+		if ( $get_default ) {
+			return $default;
+		}
+
+		return get_theme_mod( 'set_hide_go_to_top', $default );
 	}
 
 

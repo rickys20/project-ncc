@@ -26,7 +26,9 @@
 		?>
 	</footer><!-- #colophon -->
 
+	<?php if ( ! PressBook\Options\Footer::get_hide_go_to_top() ) { ?>
 	<a href="#" class="go-to-top" aria-label="<?php esc_attr_e( 'Go to top', 'pressbook' ); ?>"></a>
+	<?php } ?>
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
