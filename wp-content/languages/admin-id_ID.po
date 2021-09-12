@@ -35,7 +35,7 @@ msgstr "Lanjutkan"
 msgid "Template Editing"
 msgstr "Pengeditan Template"
 
-#: wp-admin/about.php:75
+#: wp-admin/about.php:108
 msgid "The Query Loop Block makes it possible to display posts based on specified parameters; like a PHP loop without the code. Easily display posts from a specific category, to do things like create a portfolio or a page full of your favorite recipes. Think of it as a more complex and powerful Latest Posts Block! Plus, pattern suggestions make it easier than ever to create a list of posts with the design you want."
 msgstr "Blok Query Loop memungkinkan untuk menampilkan posting berdasarkan parameter yang ditentukan; seperti loop PHP tanpa kode. Menampilkan postingan dari kategori tertentu dengan mudah, untuk melakukan hal-hal seperti membuat portofolio atau halaman yang penuh dengan resep favorit Anda. Anggap saja sebagai Blok Postingan Terbaru yang lebih kompleks dan kuat! Plus, saran pola membuatnya lebih mudah dari sebelumnya untuk membuat daftar posting dengan desain yang Anda inginkan."
 
@@ -92,94 +92,94 @@ msgstr "WordPress adalah perangkat lunak gratis dengan sumber terbuka, dibangun 
 
 #. translators: %1$s: Link to 5.6's block dev notes. %2$s: Link to 5.7's block
 #. dev notes. %3$s: Link to 5.8's block dev notes.
-#: wp-admin/about.php:219
+#: wp-admin/about.php:252
 msgid "Expanding on previously implemented block supports in WordPress <a href=\"%1$s\">5.6</a> and <a href=\"%2$s\">5.7</a>, WordPress 5.8 introduces several new block support flags and new options to customize your registered blocks. More information is available in the <a href=\"%3$s\">block supports dev note</a>."
 msgstr "Memperluas dukungan blok yang diterapkan sebelumnya di WordPress <a href=\"%1$s\">5.6</a> dan <a href=\"%2$s\">5.7</a>, WordPress 5.8 memperkenalkan beberapa tanda dukungan blok baru dan opsi baru untuk menyesuaikan blok terdaftar Anda. Informasi lebih lanjut tersedia di <a href=\"%3$s\">dukungan blok catatan developer</a>."
 
-#: wp-admin/about.php:207
+#: wp-admin/about.php:240
 msgid "WebP is a modern image format that provides improved lossless and lossy compression for images on the web. WebP images are around 30% smaller on average than their JPEG or PNG equivalents, resulting in sites that are faster and use less bandwidth."
 msgstr "WebP adalah format gambar modern yang memberikan peningkatan kompresi lossless dan lossy untuk gambar di web. Gambar WebP rata-rata sekitar 30% lebih kecil daripada yang setara dengan JPEG atau PNG, menghasilkan situs yang lebih cepat dan menggunakan lebih sedikit bandwidth."
 
-#: wp-admin/about.php:213
+#: wp-admin/about.php:246
 msgid "Adding Additional Block Supports"
 msgstr "Menambahkan Dukungan Blok Tambahan"
 
-#: wp-admin/about.php:203
+#: wp-admin/about.php:236
 msgid "Adding support for WebP"
 msgstr "Menambahkan dukungan untuk WebP"
 
 #. translators: %s: Link to Browse Happy.
-#: wp-admin/about.php:195
+#: wp-admin/about.php:228
 msgid "Support for Internet Explorer 11 has been dropped as of this release. This means you may have issues managing your site that will not be fixed in the future. If you are currently using IE11, it is strongly recommended that you <a href=\"%s\">switch to a more modern browser</a>."
 msgstr "Dukungan untuk Internet Explorer 11 telah dihentikan sejak rilis ini. Ini berarti Anda mungkin memiliki masalah dalam mengelola situs Anda yang tidak akan diperbaiki di masa mendatang. Jika saat ini Anda menggunakan IE11, sangat disarankan agar Anda <a href=\"%s\">beralih ke browser yang lebih modern</a>."
 
-#: wp-admin/about.php:189
+#: wp-admin/about.php:222
 msgid "Dropping support for Internet Explorer 11"
 msgstr "Menghentikan dukungan untuk Internet Explorer 11"
 
 #. translators: %s: Theme.json dev note link.
-#: wp-admin/about.php:178
+#: wp-admin/about.php:211
 msgid "Introducing the Global Styles and Global Settings APIs: control the editor settings, available customization tools, and style blocks using a theme.json file in the active theme. This configuration file enables or disables features and sets default styles for both a website and blocks. If you build themes, you can experiment with this early iteration of a useful new feature. For more about what is currently available and how it works, <a href=\"%s\">check out this dev note</a>."
 msgstr "Memperkenalkan Global Styles dan Global Settings API: mengontrol pengaturan editor, alat penyesuaian yang tersedia, dan blok gaya menggunakan file theme.json di tema aktif. File konfigurasi ini mengaktifkan atau menonaktifkan fitur dan menetapkan gaya default untuk situs web dan blok. Jika Anda membuat tema, Anda dapat bereksperimen dengan iterasi awal dari fitur baru yang berguna ini. Untuk mengetahui lebih lanjut tentang apa yang saat ini tersedia dan cara kerjanya, <a href=\"%s\">lihat catatan pengembang ini</a>."
 
-#: wp-admin/about.php:172
+#: wp-admin/about.php:205
 msgid "Theme.json"
 msgstr "Theme.json"
 
-#: wp-admin/about.php:159
+#: wp-admin/about.php:192
 msgid "For Developers to Explore"
 msgstr "Untuk Digali Developer"
 
-#: wp-admin/about.php:149
+#: wp-admin/about.php:182
 msgid "Colorize your image and cover blocks with duotone filters! Duotone can add a pop of color to your designs and style your images (or videos in the cover block) to integrate well with your themes. You can think of the duotone effect as a black and white filter, but instead of the shadows being black and the highlights being white, you pick your own colors for the shadows and highlights. There’s more to learn about how it works in the documentation."
 msgstr "Warnai gambar Anda dan tutupi blok dengan filter duotone! Duotone dapat menambahkan semburat warna ke desain Anda dan menata gambar Anda (atau video di blok sampul) agar terintegrasi dengan baik dengan tema Anda. Anda dapat menganggap efek duotone sebagai filter hitam dan putih, tetapi alih-alih bayangan menjadi hitam dan sorotan menjadi putih, Anda memilih warna Anda sendiri untuk bayangan dan sorotan. Ada lebih banyak untuk dipelajari tentang cara kerjanya di dokumentasi."
 
-#: wp-admin/about.php:145
+#: wp-admin/about.php:178
 msgid "Style and Colorize Images"
 msgstr "Gaya dan Warnai Gambar"
 
-#: wp-admin/about.php:130
+#: wp-admin/about.php:163
 msgid "Starting in this release the Pattern Transformations tool will suggest block patterns based on the block you are using. Right now, you can give it a try in the Query Block and Social Icon Block. As more patterns are added, you will be able to get inspiration for how to style your site without ever leaving the editor!"
 msgstr "Mulai rilis ini, alat Transformasi Pola akan menyarankan pola blok berdasarkan blok yang Anda gunakan. Saat ini, Anda dapat mencobanya di Blok Kueri dan Blok Ikon Sosial. Saat lebih banyak pola ditambahkan, Anda akan bisa mendapatkan inspirasi tentang cara menata situs Anda tanpa harus meninggalkan editor!"
 
-#: wp-admin/about.php:126
+#: wp-admin/about.php:159
 msgid "Suggested Patterns for Blocks"
 msgstr "Pola yang Disarankan untuk Blok"
 
-#: wp-admin/about.php:117
+#: wp-admin/about.php:150
 msgid "Sometimes you need a simple landing page, but sometimes you need something a little more robust. As blocks increase, patterns emerge, and content creation gets easier, new solutions are needed to make complex content easy to navigate. List View is the best way to jump between layers of content and nested blocks. Since the List View gives you an overview of all the blocks in your content, you can now navigate quickly to the precise block you need. Ready to focus completely on your content? Toggle it on or off to suit your workflow."
 msgstr "Terkadang Anda membutuhkan halaman arahan yang sederhana, tetapi terkadang Anda membutuhkan sesuatu yang sedikit lebih kuat. Saat blok meningkat, pola muncul, dan pembuatan konten menjadi lebih mudah, solusi baru diperlukan untuk membuat konten yang kompleks mudah dinavigasi. Tampilan Daftar adalah cara terbaik untuk melompat di antara lapisan konten dan blok bersarang. Karena Tampilan Daftar memberi Anda gambaran umum tentang semua blok di konten Anda, kini Anda dapat menavigasi dengan cepat ke blok tepat yang Anda butuhkan. Siap untuk fokus sepenuhnya pada konten Anda? Aktifkan atau nonaktifkan agar sesuai dengan alur kerja Anda."
 
-#: wp-admin/about.php:113
+#: wp-admin/about.php:146
 msgid "Overview of the Page Structure"
 msgstr "Ikhtisar Struktur Halaman"
 
-#: wp-admin/about.php:103
+#: wp-admin/about.php:136
 msgid "Three Workflow Helpers"
 msgstr "Tiga Pembantu Alur Kerja"
 
-#: wp-admin/about.php:93
+#: wp-admin/about.php:126
 msgid "You can use the familiar block editor to edit templates that hold your content—simply activate a block theme or a theme that has opted in for this feature. Switch from editing your posts to editing your pages and back again, all while using a familiar block editor. There are more than 20 new blocks available within compatible themes. Read more about this feature and how to experiment with it in the release notes."
 msgstr "Anda dapat menggunakan editor blok yang sudah dikenal untuk mengedit template yang menyimpan konten Anda—cukup aktifkan tema blok atau tema yang telah memilih fitur ini. Beralih dari mengedit posting Anda ke mengedit halaman Anda dan kembali lagi, semuanya menggunakan editor blok yang sudah dikenal. Ada lebih dari 20 blok baru yang tersedia dalam tema yang kompatibel. Baca selengkapnya tentang fitur ini dan cara bereksperimen dengannya di catatan rilis."
 
-#: wp-admin/about.php:89
+#: wp-admin/about.php:122
 msgid "Edit the Templates Around Posts"
 msgstr "Edit Templat di Sekitar Artikel"
 
-#: wp-admin/about.php:72
+#: wp-admin/about.php:105
 msgid "Display Posts with New Blocks and Patterns"
 msgstr "Tampilkan Artikel dengan Blok dan Pola Baru"
 
 #. translators: %s: Widgets dev note link.
-#: wp-admin/about.php:61
+#: wp-admin/about.php:94
 msgid "After months of hard work, the power of blocks has come to both the Block Widgets Editor and the Customizer. Now you can add blocks both in widget areas across your site and with live preview through the Customizer. This opens up new possibilities to create content: from no-code mini layouts to the vast library of core and third-party blocks. For our developers, you can find more details in the <a href=\"%s\">Widgets dev note</a>."
 msgstr "Setelah berbulan-bulan kerja keras, kekuatan blok akhirnya datang ke Editor Widget Blok dan Customizer. Sekarang Anda dapat menambahkan blok di area widget di seluruh situs Anda dan dengan pratinjau langsung melalui Customizer. Ini membuka kemungkinan baru untuk membuat konten: dari tata letak mini tanpa kode hingga perpustakaan besar blok inti dan pihak ketiga. Untuk pengembang kami, Anda dapat menemukan detail selengkapnya di <a href=\"%s\">Catatan pengembang widget</a>."
 
-#: wp-admin/about.php:55
+#: wp-admin/about.php:88
 msgid "Manage Widgets with Blocks"
 msgstr "Kelola Widget dengan Blok"
 
-#: wp-admin/about.php:45
+#: wp-admin/about.php:78
 msgid "Three Essential Powerhouses"
 msgstr "Tiga Powerhouse Esensial"
 
@@ -241,25 +241,25 @@ msgstr "Tidak dapat menyandikan data pribadi untuk ekspor. Eror: %s"
 msgid "Themes %s"
 msgstr "Tema %s"
 
-#: wp-admin/nav-menus.php:1020
+#: wp-admin/nav-menus.php:1036
 msgid "Remove Selected Items"
 msgstr "Hapus Item yang Dipilih"
 
-#: wp-admin/nav-menus.php:1022
+#: wp-admin/nav-menus.php:1038
 msgid "List of menu items selected for deletion:"
 msgstr "Daftar item menu yang dipilih untuk dihapus:"
 
 #. translators: %s: Item name.
-#: wp-admin/nav-menus.php:489
+#: wp-admin/nav-menus.php:499
 msgid "item %s"
 msgstr "item %s"
 
 #. translators: %s: Item name.
-#: wp-admin/nav-menus.php:491
+#: wp-admin/nav-menus.php:501
 msgid "Deleted menu item: %s."
 msgstr "Item menu yang dihapus: %s."
 
-#: wp-admin/nav-menus.php:987 wp-admin/nav-menus.php:1018
+#: wp-admin/nav-menus.php:999 wp-admin/nav-menus.php:1034
 msgid "Bulk Select"
 msgstr "Pilih Semua"
 
@@ -688,7 +688,7 @@ msgid "https://developer.wordpress.org/rest-api/frequently-asked-questions/#why-
 msgstr "https://developer.wordpress.org/rest-api/frequently-asked-questions/#why-is-authentication-not-working"
 
 #. translators: %s: WordPress 5.8 Field Guide link.
-#: wp-admin/about.php:238
+#: wp-admin/about.php:271
 msgid "Check out the latest version of the WordPress Field Guide. It highlights developer notes for each change you may want to be aware of. <a href=\"%s\">WordPress 5.8 Field Guide.</a>"
 msgstr "Lihat versi terbaru WordPress Field Guide yang menyajikan catatan developer tentang perubahan-perubahan yang perlu Anda tahu. <a href=\"%s\">WordPress 5.8 Field Guide.</a>"
 
@@ -759,7 +759,7 @@ msgstr "Tambahkan Kata Sandi Aplikasi Baru"
 msgid "Required to create an Application Password, but not to update the user."
 msgstr "Wajib untuk membuat Kata Sandi Aplikasi, tetapi tidak untuk memperbarui pengguna."
 
-#: wp-admin/about.php:251
+#: wp-admin/about.php:284
 msgid "Go to Updates"
 msgstr "Pergi ke pembaruan"
 
@@ -1116,7 +1116,7 @@ msgstr "Nilai \"%1$s\" lebih kecil dari \"%2$s\"."
 msgid "Environment type"
 msgstr "Tipe lingkungan"
 
-#: wp-admin/about.php:233
+#: wp-admin/about.php:266
 msgid "Check the Field Guide for more!"
 msgstr "Lihat Panduan Lapangan untuk lebih lanjut!"
 
@@ -1406,7 +1406,7 @@ msgstr "Pembaruan otomatis dapat diaktifkan atau dinonaktifkan untuk versi utama
 msgid "<strong>Important:</strong> Before updating, please <a href=\"%1$s\">back up your database and files</a>. For help with updates, visit the <a href=\"%2$s\">Updating WordPress</a> documentation page."
 msgstr "<strong>Penting:</strong> Sebelum memperbarui, harap <a href=\"%1$s\"> cadangkan basis data dan berkas Anda</a>. Untuk bantuan dengan pembaruan, kunjungi laman dokumentasi <a href=\"%2$s\">Memperbarui WordPress</a>."
 
-#: wp-admin/customize.php:203 wp-admin/theme-install.php:389
+#: wp-admin/customize.php:207 wp-admin/theme-install.php:389
 #: wp-admin/theme-install.php:436 wp-admin/themes.php:554
 #: wp-admin/themes.php:912 wp-admin/themes.php:1128
 msgctxt "theme"
@@ -2245,7 +2245,7 @@ msgstr "<a href=\"https://wordpress.org/support/article/using-permalinks/\">Doku
 msgid "<a href=\"https://wordpress.org/support/article/dashboard-updates-screen/\">Documentation on Updating WordPress</a>"
 msgstr "<a href=\"https://wordpress.org/support/article/dashboard-updates-screen/\">Dokumentasi tentang Pembaruan WordPress</a>"
 
-#: wp-admin/nav-menus.php:653
+#: wp-admin/nav-menus.php:663
 msgid "<a href=\"https://wordpress.org/support/article/appearance-menus-screen/\">Documentation on Menus</a>"
 msgstr "<a href=\"https://wordpress.org/support/article/appearance-menus-screen/\">Dokumentasi tentang Menu</a>"
 
@@ -2994,7 +2994,7 @@ msgstr[0] "%s hal tanpa masalah terdeteksi"
 msgstr[1] "%s hal tanpa masalah terdeteksi"
 
 #: wp-admin/about.php:33 wp-admin/credits.php:34 wp-admin/freedoms.php:37
-#: wp-admin/includes/ms.php:1122 wp-admin/nav-menus.php:691
+#: wp-admin/includes/ms.php:1122 wp-admin/nav-menus.php:701
 #: wp-admin/options-privacy.php:143 wp-admin/privacy-policy-guide.php:41
 #: wp-admin/privacy.php:31 wp-admin/site-health.php:115
 msgid "Secondary menu"
@@ -4010,29 +4010,29 @@ msgstr "Anda tidak dapat memperbarui karena <a href=\"%1$s\">WordPress %2$s</a> 
 msgid "You cannot update because <a href=\"%1$s\">WordPress %2$s</a> requires MySQL version %3$s or higher. You are running version %4$s."
 msgstr "Anda tidak dapat memperbarui karena <a href=\"%1$s\">WordPress %2$s</a>  mewajibkan MySQL versi %3$s atau lebih tinggi. Saat ini Anda menggunakan versi %4$s."
 
-#: wp-admin/nav-menus.php:927
+#: wp-admin/nav-menus.php:937
 msgid "Add menu items"
 msgstr "Tambahkan item menu"
 
-#: wp-admin/nav-menus.php:820
+#: wp-admin/nav-menus.php:830
 msgid "Create your first menu below."
 msgstr "Buat menu pertama Anda di bawah ini."
 
-#: wp-admin/nav-menus.php:840 wp-admin/nav-menus.php:905
+#: wp-admin/nav-menus.php:850 wp-admin/nav-menus.php:915
 msgid "Click the Save Menu button to save your changes."
 msgstr "Klik tombol Simpan Menu untuk menyimpan perubahan Anda."
 
-#: wp-admin/nav-menus.php:821
+#: wp-admin/nav-menus.php:831
 msgid "Fill in the Menu Name and click the Create Menu button to create your first menu."
 msgstr "Isi Nama Menu dan klik tombol Buat Menu untuk membuat menu pertama Anda."
 
 #. translators: %s: URL to create a new menu.
-#: wp-admin/nav-menus.php:828
+#: wp-admin/nav-menus.php:838
 msgid "Edit your menu below, or <a href=\"%s\">create a new menu</a>. Don&#8217;t forget to save your changes!"
 msgstr "Sunting menu Anda di bawah ini, atau <a href=\"%s\">buat menu baru</a>. Jangan lupa menyimpan perubahan Anda!"
 
 #. translators: %s: URL to create a new menu.
-#: wp-admin/nav-menus.php:893
+#: wp-admin/nav-menus.php:903
 msgid "or <a href=\"%s\">create a new menu</a>. Don&#8217;t forget to save your changes!"
 msgstr "atau <a href=\"%s\">membuat menu baru </a>. Jangan lupa menyimpan perubahan Anda!"
 
@@ -4138,9 +4138,10 @@ msgstr "Plugin ini tidak berfungsi dengan versi WordPress Anda."
 msgid "This plugin doesn&#8217;t work with your versions of WordPress and PHP."
 msgstr "Plugin ini tidak berfungsi dengan versi WordPress dan PHP Anda."
 
+#. translators: %s: WordPress version
 #. translators: %s: WordPress version.
-#: wp-admin/includes/update.php:302 wp-admin/install.php:238
-#: wp-admin/update-core.php:92 wp-admin/upgrade.php:80
+#: wp-admin/about.php:65 wp-admin/includes/update.php:302
+#: wp-admin/install.php:238 wp-admin/update-core.php:92 wp-admin/upgrade.php:80
 msgid "https://wordpress.org/support/wordpress-version/version-%s/"
 msgstr "https://wordpress.org/support/wordpress-version/version-%s/"
 
@@ -5606,11 +5607,11 @@ msgstr "Maaf, Anda tidak diizinkan menghapus pengguna."
 msgid "Sorry, you are not allowed to create users."
 msgstr "Maaf, Anda tidak diizinkan membuat pengguna."
 
-#: wp-admin/customize.php:241
+#: wp-admin/customize.php:245
 msgid "The Customizer allows you to preview changes to your site before publishing them. You can navigate to different pages on your site within the preview. Edit shortcuts are shown for some editable elements."
 msgstr "Customizer memampukan Anda mempratinjau perubahan pada situs sebelum menerbitkannya. Anda bisa berpindah ke laman berbeda pada situs melalui pratinjau. Pintasan penyuntingan ditampilkan bagi setiap elemen yang bisa disunting."
 
-#: wp-admin/customize.php:255
+#: wp-admin/customize.php:259
 msgctxt "short (~12 characters) label for hide controls button"
 msgid "Hide Controls"
 msgstr "Tutup Kontrol"
@@ -5619,7 +5620,7 @@ msgstr "Tutup Kontrol"
 msgid "Expand Sidebar"
 msgstr "Buka Bilah Sisi"
 
-#: wp-admin/nav-menus.php:1052
+#: wp-admin/nav-menus.php:1070
 msgid "Display location"
 msgstr "Lokasi penayangan"
 
@@ -5712,7 +5713,7 @@ msgstr "Bergulir"
 #: wp-admin/includes/class-custom-background.php:100
 #: wp-admin/includes/class-custom-image-header.php:137 wp-admin/index.php:112
 #: wp-admin/link-manager.php:79 wp-admin/media-new.php:61 wp-admin/media.php:97
-#: wp-admin/my-sites.php:52 wp-admin/nav-menus.php:654
+#: wp-admin/my-sites.php:52 wp-admin/nav-menus.php:664
 #: wp-admin/options-discussion.php:32 wp-admin/options-general.php:49
 #: wp-admin/options-media.php:41 wp-admin/options-permalink.php:62
 #: wp-admin/options-reading.php:53 wp-admin/options-writing.php:53
@@ -5884,7 +5885,7 @@ msgstr "Maaf, Anda tak diizinkan mengedit plugin untuk situs ini."
 msgid "Sorry, you are not allowed to delete this site."
 msgstr "Maaf, Anda tak dizinkan menghapus situs ini."
 
-#: wp-admin/nav-menus.php:676 wp-admin/widgets-form.php:393
+#: wp-admin/nav-menus.php:686 wp-admin/widgets-form.php:393
 msgid "Manage with Live Preview"
 msgstr "Kelola dengan Pratinjau Langsung"
 
@@ -6110,7 +6111,7 @@ msgstr "Anda bisa menyaring daftar pos berdasarkan status pos menggunakan tautan
 msgid "Sorry, you are not allowed to customize headers."
 msgstr "Maaf, Anda tak diizinkan mengustomisasi header."
 
-#: wp-admin/customize.php:214
+#: wp-admin/customize.php:218
 msgid "Close the Customizer and go back to the previous page"
 msgstr "Tutup Customizer dan kembali ke laman sebelumnya"
 
@@ -6556,13 +6557,13 @@ msgid "Send the new user an email about their account."
 msgstr "Kirimkan email ke pengguna baru tentang akunnya."
 
 #. translators: %s: Menu name.
-#: wp-admin/nav-menus.php:1072
+#: wp-admin/nav-menus.php:1090
 msgctxt "menu location"
 msgid "(Currently set to: %s)"
 msgstr "(Saat ini diletakkan di: %s)"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:275
+#: wp-admin/about.php:308
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "<strong>Versi %s</strong> mengatasi sebuah masalah keamanan."
 
@@ -6574,15 +6575,15 @@ msgstr "https://en.gravatar.com/"
 msgid "Profile Picture"
 msgstr "Foto Profil"
 
-#: wp-admin/about.php:269
+#: wp-admin/about.php:302
 msgid "Security Releases"
 msgstr "Rilis Keamanan"
 
-#: wp-admin/about.php:266
+#: wp-admin/about.php:299
 msgid "Maintenance Releases"
 msgstr "Rilis Pemeliharaan"
 
-#: wp-admin/about.php:272
+#: wp-admin/about.php:45 wp-admin/about.php:305
 msgid "Maintenance and Security Releases"
 msgstr "Rilis Pemeliharaan dan Keamanan"
 
@@ -7241,7 +7242,7 @@ msgid "Show more details"
 msgstr "Tampilkan rincian"
 
 #. translators: %s: Number of menus.
-#: wp-admin/nav-menus.php:720
+#: wp-admin/nav-menus.php:730
 msgid "Your theme supports %s menu. Select which menu appears in each location."
 msgid_plural "Your theme supports %s menus. Select which menu appears in each location."
 msgstr[0] "Tema Anda mendukung %s menu. Pilih menu mana yang akan ditampilkan pada tiap lokasi."
@@ -7455,7 +7456,7 @@ msgstr "Tersedia terjemahan baru."
 msgid "This theme has not been rated yet."
 msgstr "Tema ini belum dinilai."
 
-#: wp-admin/nav-menus.php:625
+#: wp-admin/nav-menus.php:635
 msgid "To add a custom link, <strong>expand the Custom Links section, enter a URL and link text, and click Add to Menu</strong>"
 msgstr "Untuk menambahkan tautan kustom, <strong>buka seksi Tautan Kustom, masukkan URL dan teks tautan, lalu klik Tambahkan ke Menu</strong>"
 
@@ -8561,7 +8562,7 @@ msgstr "Anda harus memasukkan alamat email."
 msgid "Sorry, that isn&#8217;t a valid email address. Email addresses look like <code>username@example.com</code>."
 msgstr "Maaf, itu bukan alamat email yang sah. Alamat email bentuknya seperti <code>username@example.com</code>."
 
-#: wp-admin/nav-menus.php:623
+#: wp-admin/nav-menus.php:633
 msgid "<strong>Clicking the arrow to the right of any menu item</strong> in the editor will reveal a standard group of settings. Additional settings such as link target, CSS classes, link relationships, and link descriptions can be enabled and disabled via the Screen Options tab."
 msgstr "<strong>Mengklik panah di sebelah kanan item menu manapun</strong> dalam editor akan menampilkan sekelompok pengaturan standar. Pengaturan tambahan seperti target tautan, class CSS, relasi tautan, dan deskripsi tautan bisa diaktifkan dan dinonaktifkan via tab Opsi Layar."
 
@@ -8584,13 +8585,13 @@ msgid "This password will not be stored on the server."
 msgstr "Sandi ini tidak akan disimpan di server."
 
 #. translators: %s: URL to Widgets screen.
-#: wp-admin/nav-menus.php:583
+#: wp-admin/nav-menus.php:593
 msgid "Your theme does not natively support menus, but you can use them in sidebars by adding a &#8220;Navigation Menu&#8221; widget on the <a href=\"%s\">Widgets</a> screen."
 msgstr "Tema Anda tidak mendukung menu secara bawaan, namun Anda bisa meletakkannya di bilah sisi dengan menambahkan widget &#8220;Menu Navigasi&#8221; pada layar <a href=\"%s\">Widget</a>."
 
 #. translators: 1: URL to Widgets screen, 2 and 3: The names of the default
 #. themes.
-#: wp-admin/nav-menus.php:592
+#: wp-admin/nav-menus.php:602
 msgid "Menus can be displayed in locations defined by your theme, even used in sidebars by adding a &#8220;Navigation Menu&#8221; widget on the <a href=\"%1$s\">Widgets</a> screen. If your theme does not support the navigation menus feature (the default themes, %2$s and %3$s, do), you can learn about adding this support by following the Documentation link to the side."
 msgstr "Menu dapat ditampilkan di lokasi yang ditentukan oleh tema Anda, bahkan digunakan dalam sidebars dengan menambahkan widget &#8220;Menu Navigasi&#8221; pada layar <a href=\"%1$s\"> Widget</a>. Jika tema Anda tidak mendukung fitur menu navigasi (tema default,%2$s dan %3$s, bisa), Anda dapat mempelajari tentang menambahkan dukungan ini dengan mengikuti link Dokumentasi di samping."
 
@@ -8811,7 +8812,7 @@ msgstr "Tema ini tidak mengandung berkas apapun."
 msgid "To navigate between revisions, <strong>drag the slider handle left or right</strong> or <strong>use the Previous or Next buttons</strong>."
 msgstr "Untuk menelusuri revisi-revisi, <strong>tarik tuas slider ke kanan atau ke kiri</strong> atau <strong>klik tombol Sebelumnya atau Berikutnya</strong>."
 
-#: wp-admin/customize.php:147 wp-admin/includes/class-wp-debug-data.php:440
+#: wp-admin/customize.php:151 wp-admin/includes/class-wp-debug-data.php:440
 #: wp-admin/includes/dashboard.php:1140 wp-admin/includes/dashboard.php:1339
 msgid "Loading&hellip;"
 msgstr "Memuat&hellip;"
@@ -8828,11 +8829,11 @@ msgstr "Item yang hendak Anda kembalikan dari Tong Sampah sudah tidak ada."
 msgid "This item has already been deleted."
 msgstr "Item ini telah dihapus."
 
-#: wp-admin/nav-menus.php:978
+#: wp-admin/nav-menus.php:988
 msgid "Drag the items into the order you prefer. Click the arrow on the right of the item to reveal additional configuration options."
 msgstr "Geser masing-masing isi menu sesuai urutan yang Anda inginkan. Klik tanda panah pada kanan isi menu untuk menampilkan opsi konfigurasi tambahan."
 
-#: wp-admin/nav-menus.php:611
+#: wp-admin/nav-menus.php:621
 msgid "If you haven&#8217;t yet created any menus, <strong>click the &#8217;create a new menu&#8217; link</strong> to get started"
 msgstr "Jika Anda belum membuat menu sama sekali, <strong>klik tautan &#8217;buat menu baru&#8217;</strong> untuk memulainya"
 
@@ -8892,40 +8893,40 @@ msgstr "Genre: %s."
 msgid "Audio Format:"
 msgstr "Format Audio:"
 
-#: wp-admin/nav-menus.php:734
+#: wp-admin/nav-menus.php:744
 msgid "Theme Location"
 msgstr "Lokasi pada Tema"
 
-#: wp-admin/nav-menus.php:597 wp-admin/themes.php:132
+#: wp-admin/nav-menus.php:607 wp-admin/themes.php:132
 msgid "From this screen you can:"
 msgstr "Dari layar ini anda dapat:"
 
-#: wp-admin/nav-menus.php:794
+#: wp-admin/nav-menus.php:804
 msgctxt "menu"
 msgid "Use new menu"
 msgstr "Pakai menu baru"
 
-#: wp-admin/nav-menus.php:598
+#: wp-admin/nav-menus.php:608
 msgid "Create, edit, and delete menus"
 msgstr "Buat, atur, dan hapus menu"
 
-#: wp-admin/nav-menus.php:617
+#: wp-admin/nav-menus.php:627
 msgid "Menu Management"
 msgstr "Pengelolaan Menu"
 
-#: wp-admin/nav-menus.php:703
+#: wp-admin/nav-menus.php:713
 msgid "Manage Locations"
 msgstr "Kelola Lokasi"
 
-#: wp-admin/nav-menus.php:735
+#: wp-admin/nav-menus.php:745
 msgid "Assigned Menu"
 msgstr "Menu Terpilih"
 
-#: wp-admin/nav-menus.php:744
+#: wp-admin/nav-menus.php:754
 msgid "Select a Menu"
 msgstr "Pilih Menu"
 
-#: wp-admin/nav-menus.php:632
+#: wp-admin/nav-menus.php:642
 msgid "Editing Menus"
 msgstr "Mengedit Menu"
 
@@ -8938,68 +8939,68 @@ msgstr "Dirilis: %d."
 msgid "Your latest changes were saved as a revision."
 msgstr "Perubahan terakhir Anda telah disimpan sebagai revisi."
 
-#: wp-admin/nav-menus.php:609
+#: wp-admin/nav-menus.php:619
 msgid "The menu management box at the top of the screen is used to control which menu is opened in the editor below."
 msgstr "Kotak pengelolaan menu di bagian atas layar digunakan untuk mengatur menu mana yang dibuka pada editor dibawah ini."
 
-#: wp-admin/nav-menus.php:610
+#: wp-admin/nav-menus.php:620
 msgid "To edit an existing menu, <strong>choose a menu from the drop down and click Select</strong>"
 msgstr "Untuk mengedit menu yang telah ada, <strong>pilih menu dari dropdown dan klik Pilih</strong>"
 
-#: wp-admin/nav-menus.php:624
+#: wp-admin/nav-menus.php:634
 msgid "Add one or several items at once by <strong>selecting the checkbox next to each item and clicking Add to Menu</strong>"
 msgstr "Tambahkan satu atau beberapa item sekaligus dengan <strong>memilih kotak centang disamping masing-masing item dan mengklik Tambahkan ke Menu</strong>"
 
-#: wp-admin/nav-menus.php:612
+#: wp-admin/nav-menus.php:622
 msgid "You can assign theme locations to individual menus by <strong>selecting the desired settings</strong> at the bottom of the menu editor. To assign menus to all theme locations at once, <strong>visit the Manage Locations tab</strong> at the top of the screen."
 msgstr "Anda dapat menetapkan lokasi theme untuk menu individu dengan <strong>memilih pengaturan yang diinginkan</strong> di bagian bawah editor menu. Untuk menetapkan menu untuk semua lokasi tema sekaligus, <strong>kunjungi tab Mengelola Lokasi </strong> di bagian atas layar."
 
-#: wp-admin/nav-menus.php:626
+#: wp-admin/nav-menus.php:636
 msgid "To reorganize menu items, <strong>drag and drop items with your mouse or use your keyboard</strong>. Drag or move a menu item a little to the right to make it a submenu"
 msgstr "Untuk mengatur ulang menu, <strong>tarik dan letakkan item dengan mouse atau gunakan keyboard Anda</strong>. Tarik atau memindahkan item menu sedikit ke kanan untuk menjadikannya submenu"
 
-#: wp-admin/nav-menus.php:627
+#: wp-admin/nav-menus.php:637
 msgid "Delete a menu item by <strong>expanding it and clicking the Remove link</strong>"
 msgstr "Hapus item menu dengan <strong>melebarkannya dan klik link Hapus</strong>"
 
-#: wp-admin/nav-menus.php:637
+#: wp-admin/nav-menus.php:647
 msgid "This screen is used for globally assigning menus to locations defined by your theme."
 msgstr "Layar ini digunakan untuk menetapkan secara global menu ke lokasi yang ditentukan oleh tema Anda."
 
-#: wp-admin/nav-menus.php:640
+#: wp-admin/nav-menus.php:650
 msgid "To add a new menu instead of assigning an existing one, <strong>click the &#8217;Use new menu&#8217; link</strong>. Your new menu will be automatically assigned to that theme location"
 msgstr "Untuk menambah menu baru, bukan menempatkan yang sudah ada, <strong>klik link &#8217;Gunakan menu baru&#8217;</strong>. Menu baru anda akan secara otomatis ditetapkan ke lokasi theme"
 
-#: wp-admin/nav-menus.php:638
+#: wp-admin/nav-menus.php:648
 msgid "To assign menus to one or more theme locations, <strong>select a menu from each location&#8217;s drop down.</strong> When you&#8217;re finished, <strong>click Save Changes</strong>"
 msgstr "Untuk menetapkan menu untuk satu atau lebih lokasi tema, <strong>pilih menu dari masing-masing drop down lokasi.</strong> Setelah selesai, <strong>klik Simpan Perubahan</strong>"
 
-#: wp-admin/nav-menus.php:639
+#: wp-admin/nav-menus.php:649
 msgid "To edit a menu currently assigned to a theme location, <strong>click the adjacent &#8217;Edit&#8217; link</strong>"
 msgstr "Untuk mengubah menu yang ditempatkan di lokasi tema, <strong>klik link &#8217;Edit&#8217; yang berdekatan</strong>"
 
-#: wp-admin/nav-menus.php:442
+#: wp-admin/nav-menus.php:452
 msgid "Menu locations updated."
 msgstr "Lokasi Menu diperbarui."
 
-#: wp-admin/nav-menus.php:775
+#: wp-admin/nav-menus.php:785
 msgctxt "menu"
 msgid "Edit"
 msgstr "Edit"
 
-#: wp-admin/nav-menus.php:692
+#: wp-admin/nav-menus.php:702
 msgid "Edit Menus"
 msgstr "Edit Menu"
 
-#: wp-admin/nav-menus.php:589
+#: wp-admin/nav-menus.php:599
 msgid "This screen is used for managing your navigation menus."
 msgstr "Laman ini digunakan untuk mengelola menu navigasi Anda."
 
-#: wp-admin/nav-menus.php:622
+#: wp-admin/nav-menus.php:632
 msgid "Each navigation menu may contain a mix of links to pages, categories, custom URLs or other content types. Menu links are added by selecting items from the expanding boxes in the left-hand column below."
 msgstr "Masing-masing menu navigasi mungkin memuat perpaduan tautan ke laman, kategori, URL kustom atau tipe konten lainnya. Tautan menu ditambahkan dengan memilih item dari boks-boks di kolom sebelah kiri di bawah ini."
 
-#: wp-admin/nav-menus.php:599
+#: wp-admin/nav-menus.php:609
 msgid "Add, organize, and modify individual menu items"
 msgstr "Tambahkan, organisir, dan modifikasi masing-masing item menu"
 
@@ -9036,11 +9037,11 @@ msgstr "Turunkan satu"
 msgid "To the top"
 msgstr "Ke paling atas"
 
-#: wp-admin/nav-menus.php:1027 wp-admin/network/settings.php:490
+#: wp-admin/nav-menus.php:1045 wp-admin/network/settings.php:490
 msgid "Menu Settings"
 msgstr "Pengaturan Menu"
 
-#: wp-admin/nav-menus.php:935
+#: wp-admin/nav-menus.php:945
 msgid "Menu structure"
 msgstr "Struktur menu"
 
@@ -9059,7 +9060,7 @@ msgstr "%s telah mengambilalih dan sedang mengedit."
 msgid "You cannot move this item to the Trash. %s is currently editing."
 msgstr "Anda tak bisa memindahkan item ini ke Tong Sampah. %s sedang mengeditnya."
 
-#: wp-admin/nav-menus.php:845
+#: wp-admin/nav-menus.php:855
 msgid "Select a menu to edit:"
 msgstr "Pilih Menu yang akan diedit:"
 
@@ -9084,15 +9085,15 @@ msgstr "sub item"
 msgid "Selected menus have been successfully deleted."
 msgstr "Menu terpilih sudah berhasil dihapus."
 
-#: wp-admin/nav-menus.php:1043
+#: wp-admin/nav-menus.php:1061
 msgid "Auto add pages"
 msgstr "Otomatis tambahkan laman"
 
-#: wp-admin/nav-menus.php:1001
+#: wp-admin/nav-menus.php:1015
 msgid "Give your menu a name, then click Create Menu."
 msgstr "Berikan nama untuk menu Anda, lalu klik Buat Menu."
 
-#: wp-admin/nav-menus.php:976
+#: wp-admin/nav-menus.php:986
 msgid "Edit your default menu by adding or removing items. Drag the items into the order you prefer. Click Create Menu to save your changes."
 msgstr "Pilih menu standar dengan menambahkan atau menyingkirkan isi menu. Tarik setiap isi menu agar urutannya sesuai dengan yang Anda inginkan. Klik Ciptakan Menu untuk menyimpan perubahan Anda."
 
@@ -9131,13 +9132,13 @@ msgstr "Jika Anda ingin menggunakan pengelola tautan, silakan pasang <a href=\"%
 msgid "When changing themes, there is often some variation in the number and setup of widget areas/sidebars and sometimes these conflicts make the transition a bit less smooth. If you changed themes and seem to be missing widgets, scroll down on this screen to the Inactive Widgets area, where all of your widgets and their settings will have been saved."
 msgstr "Ketika mengubah tema, ada beberapa variasi pada jumlah dan pengaturan area widget atau bilah sisi, dan kadang bisa menyebabkan konflik yang membuat transisi tidak semulus yang Anda kira. Jika Anda mengubah tema dan melihat ada widget yang hilang, geserlah ke bawah layar menuju area Widget Nonaktif di mana semua widget Anda dan pengaturannya telah tersimpan."
 
-#: wp-admin/includes/class-custom-background.php:91
-msgid "To use a background image, simply upload it or choose an image that has already been uploaded to your Media Library by clicking the &#8220;Choose Image&#8221; button. You can display a single instance of your image, or tile it to fill the screen. You can have your background fixed in place, so your site content moves on top of it, or you can have it scroll with your site."
-msgstr "Untuk menggunakan sebuah gambar latar, cukup unggah atau pilih sebuah gambar yang sudah terunggah ke Pustaka Media sebelumnya dengan tombol &#8220;Pilih Gambar&#8221;. Anda dapat menampilkan gambar tadi sekali saja, atau menampilkannya berurutan untuk memenuhi layar. Anda juga dapat memposisikan latar pada posisi permanen, jadi ketika konten situs Anda dapat bergerak di atasnya, atau juga dapat membuatnya ikut tergulung ketika menjelajah ke bawah."
-
 #: wp-admin/includes/class-custom-image-header.php:130
 msgid "Don&#8217;t forget to click &#8220;Save Changes&#8221; when you&#8217;re done!"
 msgstr "Jangan lupa untuk mengklik &#8220;Simpan Perubahaan&#8221; bila sudah selesai!"
+
+#: wp-admin/includes/class-custom-background.php:91
+msgid "To use a background image, simply upload it or choose an image that has already been uploaded to your Media Library by clicking the &#8220;Choose Image&#8221; button. You can display a single instance of your image, or tile it to fill the screen. You can have your background fixed in place, so your site content moves on top of it, or you can have it scroll with your site."
+msgstr "Untuk menggunakan sebuah gambar latar, cukup unggah atau pilih sebuah gambar yang sudah terunggah ke Pustaka Media sebelumnya dengan tombol &#8220;Pilih Gambar&#8221;. Anda dapat menampilkan gambar tadi sekali saja, atau menampilkannya berurutan untuk memenuhi layar. Anda juga dapat memposisikan latar pada posisi permanen, jadi ketika konten situs Anda dapat bergerak di atasnya, atau juga dapat membuatnya ikut tergulung ketika menjelajah ke bawah."
 
 #: wp-admin/edit-form-advanced.php:367
 msgid "Inserting Media"
@@ -10042,29 +10043,31 @@ msgstr "Perbaikan selesai. Silakan melepas baris berikut ini dari wp-config.php 
 msgid "Show Toolbar when viewing site"
 msgstr "Tampilkan Baris Perkakas ketika mengunjungi situs"
 
+#. translators: 1: WordPress version number, 2: plural number of bugs.
 #. translators: 1: WordPress version number, 2: Plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:286
+#: wp-admin/about.php:50 wp-admin/about.php:319
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>Versi %1$s</strong> telah memperbaiki masalah keamanan dan memperbaiki %2$s bug."
 msgstr[1] "<strong>Versi %1$s</strong> telah memperbaiki masalah keamanan dan memperbaiki %2$s bug."
 
+#. translators: %s: HelpHub URL
 #. translators: %s: Documentation URL.
-#: wp-admin/about.php:298
+#: wp-admin/about.php:62 wp-admin/about.php:331
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "Untuk informasi lebih lanjut, lihatlah <a href=\"%s\">catatan rilis</a>."
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:292
+#: wp-admin/about.php:325
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>Versi %1$s</strong> memperbaiki beberapa masalah keamanan dan %2$s bug."
 msgstr[1] "<strong>Versi %1$s</strong> memperbaiki beberapa masalah keamanan dan %2$s bug."
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs.
-#: wp-admin/about.php:280
+#: wp-admin/about.php:313
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>Versi %1$s</strong> mengatasi %2$s bug."
@@ -10080,19 +10083,19 @@ msgid "What&#8217;s New"
 msgstr "Apa yang Baru"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:277
+#: wp-admin/about.php:310
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "<strong>Versi %s</strong> mengatasi sejumlah isu keamanan."
 
-#: wp-admin/about.php:265
+#: wp-admin/about.php:298
 msgid "Maintenance Release"
 msgstr "Rilis Perawatan"
 
-#: wp-admin/about.php:268
+#: wp-admin/about.php:301
 msgid "Security Release"
 msgstr "Rilis Perbaikan Keamanan"
 
-#: wp-admin/about.php:271
+#: wp-admin/about.php:304
 msgid "Maintenance and Security Release"
 msgstr "Rilis Perawatan dan Perbaikan Keamanan"
 
@@ -10372,11 +10375,11 @@ msgstr "<strong>Buang</strong> akan menghapus artikel dari daftar ini dan memasu
 msgid "Because this is a multisite installation, you may add accounts that already exist on the Network by specifying a username or email, and defining a role. For more options, such as specifying a password, you have to be a Network Administrator and use the hover link under an existing user&#8217;s name to Edit the user profile under Network Admin > All Users."
 msgstr "Karena ini adalah instalasi multi-situs, Anda dapat menambahkan akun-akun yang telah ada pada Jaringan dengan menyebutkan sebuah nama pengguna atau email, dan mendefinisikan sebuah peran. Untuk pilihan lebih lanjut, seperti menentukan kata sandi, Anda haruslah seorang Administrator Jaringan dan gunakan taut layangan di bawah nama pengguna yang telah ada untuk Menyunting riwayat pengguna tersebut di bawah Admin Jaringan > Semua Pengguna."
 
-#: wp-admin/about.php:254
+#: wp-admin/about.php:287
 msgid "Go to Dashboard &rarr; Home"
 msgstr "Pergi ke Dasbor &rarr; Beranda"
 
-#: wp-admin/about.php:251
+#: wp-admin/about.php:284
 msgid "Go to Dashboard &rarr; Updates"
 msgstr "Pergi ke Dasbor &rarr; Pembaruan"
 
@@ -10507,8 +10510,8 @@ msgstr "<strong>Eror</strong>: Tidak dapat terhubung ke server. Silakan periksa 
 #: wp-admin/includes/class-custom-image-header.php:99
 #: wp-admin/includes/class-wp-screen.php:853 wp-admin/includes/ms.php:1137
 #: wp-admin/index.php:42 wp-admin/link-manager.php:56 wp-admin/media-new.php:48
-#: wp-admin/media.php:85 wp-admin/my-sites.php:43 wp-admin/nav-menus.php:604
-#: wp-admin/nav-menus.php:645 wp-admin/options-discussion.php:23
+#: wp-admin/media.php:85 wp-admin/my-sites.php:43 wp-admin/nav-menus.php:614
+#: wp-admin/nav-menus.php:655 wp-admin/options-discussion.php:23
 #: wp-admin/options-general.php:41 wp-admin/options-media.php:33
 #: wp-admin/options-permalink.php:22 wp-admin/options-reading.php:24
 #: wp-admin/options-writing.php:22 wp-admin/plugin-editor.php:124
@@ -10581,7 +10584,7 @@ msgstr "Peranan"
 #: wp-admin/includes/class-custom-image-header.php:135
 #: wp-admin/includes/ms.php:1159 wp-admin/index.php:110
 #: wp-admin/link-manager.php:77 wp-admin/media-new.php:59 wp-admin/media.php:95
-#: wp-admin/my-sites.php:50 wp-admin/nav-menus.php:652
+#: wp-admin/my-sites.php:50 wp-admin/nav-menus.php:662
 #: wp-admin/options-discussion.php:30 wp-admin/options-general.php:47
 #: wp-admin/options-media.php:39 wp-admin/options-permalink.php:59
 #: wp-admin/options-reading.php:51 wp-admin/options-writing.php:51
@@ -10637,22 +10640,6 @@ msgstr "Konfirmasi Penghapusan"
 msgid "Deactivate"
 msgstr "Non-aktifkan"
 
-#. translators: %s: Plugin version.
-#. translators: %s: Plugin version number.
-#. translators: %s: Theme version number.
-#. translators: %s: WordPress version.
-#. translators: %s: Theme version.
-#: wp-admin/includes/ajax-actions.php:4468
-#: wp-admin/includes/ajax-actions.php:4511
-#: wp-admin/includes/class-wp-debug-data.php:951
-#: wp-admin/includes/class-wp-debug-data.php:998
-#: wp-admin/includes/class-wp-debug-data.php:1321
-#: wp-admin/includes/class-wp-plugins-list-table.php:1022
-#: wp-admin/includes/update.php:231 wp-admin/includes/update.php:273
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:713
-msgid "Version %s"
-msgstr "Versi %s"
-
 #: wp-admin/edit-tag-form.php:303
 #: wp-admin/includes/class-wp-links-list-table.php:88
 #: wp-admin/includes/class-wp-links-list-table.php:336
@@ -10676,6 +10663,22 @@ msgstr "Versi %s"
 #: wp-admin/includes/class-wp-ms-users-list-table.php:514
 msgid "Delete"
 msgstr "Hapus"
+
+#. translators: %s: Plugin version.
+#. translators: %s: Plugin version number.
+#. translators: %s: Theme version number.
+#. translators: %s: WordPress version.
+#. translators: %s: Theme version.
+#: wp-admin/includes/ajax-actions.php:4468
+#: wp-admin/includes/ajax-actions.php:4511
+#: wp-admin/includes/class-wp-debug-data.php:951
+#: wp-admin/includes/class-wp-debug-data.php:998
+#: wp-admin/includes/class-wp-debug-data.php:1321
+#: wp-admin/includes/class-wp-plugins-list-table.php:1022
+#: wp-admin/includes/update.php:231 wp-admin/includes/update.php:273
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:713
+msgid "Version %s"
+msgstr "Versi %s"
 
 #: wp-admin/user-new.php:361 wp-admin/network/site-users.php:237
 #: wp-admin/network/user-new.php:91 wp-admin/network/users.php:262
@@ -11756,7 +11759,7 @@ msgstr "Melayang di atas baris dalam daftar tulisan akan menampilkan taut tindak
 msgid "Search Installed Plugins"
 msgstr "Cari Plugin Terpasang"
 
-#: wp-admin/nav-menus.php:716
+#: wp-admin/nav-menus.php:726
 msgid "Your theme supports one menu. Select which menu you would like to use."
 msgstr "Tema Anda mendukung satu menu. Pilih menu mana yang ingin Anda gunakan."
 
@@ -12097,7 +12100,7 @@ msgstr "Target Taut"
 msgid "CSS Classes (optional)"
 msgstr "Kelas-Kelas CSS (opsional)"
 
-#: wp-admin/nav-menus.php:961 wp-admin/nav-menus.php:1118
+#: wp-admin/nav-menus.php:971 wp-admin/nav-menus.php:1136
 msgid "Save Menu"
 msgstr "Simpan Menu"
 
@@ -12193,7 +12196,7 @@ msgstr "Edit item menu"
 msgid "Inactive:"
 msgstr "Tidak Aktif:"
 
-#: wp-admin/about.php:254 wp-admin/includes/network.php:148
+#: wp-admin/about.php:287 wp-admin/includes/network.php:148
 msgid "Go to Dashboard"
 msgstr "Kunjungi Dasbor"
 
@@ -12209,7 +12212,7 @@ msgstr "Zona waktu ini sekarang ada dalam waktu musim panas."
 msgid "This timezone does not observe daylight saving time."
 msgstr "Zona waktu ini tidak memantau waktu musim panas."
 
-#: wp-admin/nav-menus.php:374 wp-admin/nav-menus.php:396
+#: wp-admin/nav-menus.php:384 wp-admin/nav-menus.php:406
 msgid "Please enter a valid menu name."
 msgstr "Silakan masukkan nama menu yang sah."
 
@@ -13548,7 +13551,7 @@ msgstr "Anda akan menyetujui komentar berikut:"
 msgid "Custom Header"
 msgstr "Tajuk Tersuai"
 
-#: wp-admin/includes/template.php:2487 wp-admin/nav-menus.php:803
+#: wp-admin/includes/template.php:2487 wp-admin/nav-menus.php:813
 #: wp-admin/options.php:402
 msgid "Save Changes"
 msgstr "Simpan Perubahan"

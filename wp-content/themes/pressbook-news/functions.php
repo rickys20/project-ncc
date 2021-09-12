@@ -9,7 +9,7 @@
 
 defined( 'ABSPATH' ) || die();
 
-define( 'PRESSBOOK_NEWS_VERSION', '1.0.7' );
+define( 'PRESSBOOK_NEWS_VERSION', '1.0.8' );
 
 /**
  * Load child theme text domain.

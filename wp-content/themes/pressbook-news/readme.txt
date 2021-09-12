@@ -5,7 +5,7 @@ Donate link: https://scriptstown.com/
 Requires at least: 5.3
 Tested up to: 5.8
 Requires PHP: 5.6
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ PressBook News is an excellent theme for news, blog, entertainment, magazine, an
 
 == Description ==
 
-PressBook News is an excellent theme for news portals, blogs, entertainment, magazine, and educational websites. It offers a fully responsive, mobile-friendly, creative layout built with modern design techniques and provides clean, easy-to-read typography. The elements of the theme include single and double sticky sidebar widget area, header and footer blocks to place resuable Gutenberg blocks, multiple page templates and page-level settings, multi-level dropdown menu, social links, topbar banner advertisement area, background, and header image. The design of the blog feed is suitable for posting story and status updates, movies reviews, animes reviews, and opinions, events feed, newsflash, publishing broadcastradio messages, television news, or any type of newsfeed. The theme also offers posts carousel sliders with autoplay in the header, footer, and related posts sections. Each carousel has a set of specific options to configure them in an easy manner. The blog posts in the carousel can be shown randomly or in any order based on multiple categories and tags. This theme can also be used for schools, university, educational institutes, or academics websites to publish any course materials or notices for the students. The theme uses minimal dependencies so it loads the website very fast with high speed and offers a seamless user experience for its visitors.
+PressBook News is an excellent theme for news portals, blogs, entertainment, magazine, and educational websites. It offers a fully responsive, mobile-friendly, creative layout built with modern design techniques and provides clean, easy-to-read typography. The elements of the theme include single and double sticky sidebar widget area, header and footer blocks to place resuable Gutenberg blocks, multiple page templates and page-level settings, multi-level dropdown menu, social links, topbar banner advertisement area, background, and header image. This theme can be a great choice for digital marketing and news agency websites with an interactive look and feel. The design of the blog feed is suitable for posting story and status updates, movies reviews, animes reviews, and opinions, events feed, newsflash, publishing broadcastradio messages, television news, or any type of newsfeed. The theme also offers posts carousel sliders with autoplay in the header, footer, and related posts sections. Each carousel has a set of specific options to configure them in an easy manner. The blog posts in the carousel can be shown randomly or in any order based on multiple categories and tags. This theme can also be used for schools, university, educational institutes, or academics websites to publish any course materials or notices for the students. The theme uses minimal dependencies so it loads the website very fast with high speed and offers a seamless user experience for its visitors.
 
 == Installation ==
 
@@ -58,6 +58,9 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 == Changelog ==
+
+= 1.0.8 =
+* New: Option to hide the top border of primary navbar.
 
 = 1.0.7 =
 * Improvement: Code cleanup.

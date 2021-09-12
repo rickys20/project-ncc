@@ -2,14 +2,14 @@
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: PressBook News 1.0.7\n"
+"Project-Id-Version: PressBook News 1.0.8\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/pressbook-news\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-08-13T14:30:53+00:00\n"
+"POT-Creation-Date: 2021-09-03T11:15:32+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.4.0\n"
 "X-Domain: pressbook-news\n"
@@ -23,7 +23,7 @@ msgid "https://scriptstown.com/wordpress-themes/pressbook-news/"
 msgstr ""
 
 #. Description of the theme
-msgid "PressBook News is an excellent theme for news portals, blogs, entertainment, magazine, and educational websites. It offers a fully responsive, mobile-friendly, creative layout built with modern design techniques and provides clean, easy-to-read typography. The elements of the theme include single and double sticky sidebar widget area, header and footer blocks to place resuable Gutenberg blocks, multiple page templates and page-level settings, multi-level dropdown menu, social links, topbar banner advertisement area, background, and header image. The design of the blog feed is suitable for posting story and status updates, movies reviews, animes reviews, and opinions, events feed, newsflash, publishing broadcastradio messages, television news, or any type of newsfeed. The theme also offers posts carousel sliders with autoplay in the header, footer, and related posts sections. Each carousel has a set of specific options to configure them in an easy manner. The blog posts in the carousel can be shown randomly or in any order based on multiple categories and tags. This theme can also be used for schools, university, educational institutes, or academics websites to publish any course materials or notices for the students. The theme uses minimal dependencies so it loads the website very fast with high speed and offers a seamless user experience for its visitors."
+msgid "PressBook News is an excellent theme for news portals, blogs, entertainment, magazine, and educational websites. It offers a fully responsive, mobile-friendly, creative layout built with modern design techniques and provides clean, easy-to-read typography. The elements of the theme include single and double sticky sidebar widget area, header and footer blocks to place resuable Gutenberg blocks, multiple page templates and page-level settings, multi-level dropdown menu, social links, topbar banner advertisement area, background, and header image. This theme can be a great choice for digital marketing and news agency websites with an interactive look and feel. The design of the blog feed is suitable for posting story and status updates, movies reviews, animes reviews, and opinions, events feed, newsflash, publishing broadcastradio messages, television news, or any type of newsfeed. The theme also offers posts carousel sliders with autoplay in the header, footer, and related posts sections. Each carousel has a set of specific options to configure them in an easy manner. The blog posts in the carousel can be shown randomly or in any order based on multiple categories and tags. This theme can also be used for schools, university, educational institutes, or academics websites to publish any course materials or notices for the students. The theme uses minimal dependencies so it loads the website very fast with high speed and offers a seamless user experience for its visitors."
 msgstr ""
 
 #. Author of the theme
@@ -422,8 +422,16 @@ msgctxt "Lora font (in the editor): on or off"
 msgid "on"
 msgstr ""
 
-#: inc/classes/class-pressbook-news-primarynavbar.php:44
+#: inc/classes/class-pressbook-news-primarynavbar.php:45
 msgid "Primary Navbar Hover Background Color"
+msgstr ""
+
+#: inc/classes/class-pressbook-news-primarynavbar.php:75
+msgid "Hide Top Border"
+msgstr ""
+
+#: inc/classes/class-pressbook-news-primarynavbar.php:76
+msgid "Hide the top border of the menu item on hover or active state."
 msgstr ""
 
 #: inc/classes/class-pressbook-news-related-posts.php:45
@@ -569,6 +577,10 @@ msgstr ""
 
 #: single.php:30
 msgid "Next Post:"
+msgstr ""
+
+#: template-parts/header/primary-navbar.php:14
+msgid "Primary Menu"
 msgstr ""
 
 #: template-parts/header/top-navbar.php:34
